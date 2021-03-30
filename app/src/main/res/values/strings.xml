@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DashBoardTest</string>
+    <string name="mail">Email</string>
+    <string name="pwd">Mot de passe</string>
+    <string name="co">Connexion</string>
+    <string name="sub">S\'inscrire</string>
+    <string name="fpwd">Mot de passe oublié</string>
+    <string name="cpwd">Confirmez le mot de passe</string>
+    <string name="valider">Valider</string>
+    <string name="bvn">Blabla Sport</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="act">Recherche d\'activité</string>
+</resources>

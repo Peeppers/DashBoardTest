@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167059427916",
+    "project_id": "appblablasport",
+    "storage_bucket": "appblablasport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167059427916:android:346a96a414f67bf5de5ae9",
+        "android_client_info": {
+          "package_name": "com.example.dashboardtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167059427916-aauc5ogd0p4qbpu6urup3rin5bnp8545.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGg4Q35CGqCUrDerA1sr9H9UiKRBZJrgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167059427916-aauc5ogd0p4qbpu6urup3rin5bnp8545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
